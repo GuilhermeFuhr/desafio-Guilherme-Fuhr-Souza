@@ -1,4 +1,4 @@
-# desafio-Guilherme-Fuhr-Souza
+# desafio-Guilherme-Souza
 # CAIXA DA LANCHONETE
 
 ## O DESAFIO
